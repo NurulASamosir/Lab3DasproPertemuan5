@@ -1,5 +1,4 @@
-
-program PenjumlahanMatriks;
+program QuizNo1;
 
 var
   A, B, C: array[1..5, 1..5] of integer;
